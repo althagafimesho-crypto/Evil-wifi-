@@ -38,3 +38,5 @@ All logs are stored internally:
 📜 Disclaimer
 This project is for educational and ethical security testing purposes only. The author is not responsible for any misuse or damage caused by this tool. Use it only on networks you own or have permission to test. 🛡️
 Happy Hacking! 💻🔥
+
+remember read the LICENSE 
